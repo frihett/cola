@@ -7,4 +7,4 @@
 
 **이미지** 삽입하기
 
-![귀여운 이미지](.test_image.jpg)
+![귀여운 이미지](./test_image.jpg)
